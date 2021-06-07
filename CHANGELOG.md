@@ -1,5 +1,17 @@
 # @primer/css
 
+## 17.3.0
+
+### Minor Changes
+
+- [#1441](https://github.com/primer/css/pull/1441) [`3b552c77`](https://github.com/primer/css/commit/3b552c77af931ba67920a97dbea59acf5d800335) Thanks [@jonrohan](https://github.com/jonrohan)! - Adding anim-hover-grow to replace hover-grow
+
+### Patch Changes
+
+- [#1432](https://github.com/primer/css/pull/1432) [`55ca5f2f`](https://github.com/primer/css/commit/55ca5f2f7300e016516f9457248b055b2c56f7fd) Thanks [@manuelpuyol](https://github.com/manuelpuyol)! - Fix Layout ordering when using dividers with custom sidebar placement
+
+* [#1442](https://github.com/primer/css/pull/1442) [`6c22133a`](https://github.com/primer/css/commit/6c22133ae1652bafb16ba443169c179b95bf4330) Thanks [@jdanyow](https://github.com/jdanyow)! - Fix octicon color for disabled .btn-primary
+
 ## 17.2.1
 
 ### Patch Changes
